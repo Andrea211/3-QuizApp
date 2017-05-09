@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+
+    <string name="desc">image</string>
+
+    <!-- Name [CHAR LIMIT=20] -->
+    <string name="category_name">Category: knowledge about Poland</string>
+
+    <!-- Question 1 [CHAR LIMIT=20] -->
+    <string name="question1">Question 1</string>
+
+    <!-- Question 1 text [CHAR LIMIT=20] -->
+    <string name="question1_text">How many letters does Polish alphabet consist of?</string>
+
+    <!-- Type here [CHAR LIMIT=20] -->
+    <string name="type_here">Type here</string>
+
+    <!-- Question 2 [CHAR LIMIT=20] -->
+    <string name="question2">Question 2</string>
+
+    <!-- Question 1 text [CHAR LIMIT=20] -->
+    <string name="question2_text">What is the capital of Poland?</string>
+
+    <!-- Capital 1 [CHAR LIMIT=20] -->
+    <string name="capital1">Krakow</string>
+
+    <!-- Capital 2 [CHAR LIMIT=20] -->
+    <string name="capital2">Gdansk</string>
+
+    <!-- Capital 3 [CHAR LIMIT=20] -->
+    <string name="capital3">Warsaw</string>
+
+    <!-- Capital 4 [CHAR LIMIT=20] -->
+    <string name="capital4">Wroclaw</string>
+
+    <!-- Question 3 [CHAR LIMIT=20] -->
+    <string name="question3">Question 3</string>
+
+    <!-- Question 3 text [CHAR LIMIT=20] -->
+    <string name="question3_text">Who of these people are of Polish?</string>
+
+    <!-- Person 1 [CHAR LIMIT=20] -->
+    <string name="person1">Nicolaus Copernicus</string>
+
+    <!-- Person 2 [CHAR LIMIT=20] -->
+    <string name="person2">Marie Curie</string>
+
+    <!-- Person 3 [CHAR LIMIT=20] -->
+    <string name="person3">Milan Kundera</string>
+
+    <!-- Person 4 [CHAR LIMIT=20] -->
+    <string name="person4">Frederic Chopin</string>
+
+    <!-- Person 5 [CHAR LIMIT=20] -->
+    <string name="person5">Johannes Hevelius</string>
+
+    <!-- Person 6 [CHAR LIMIT=20] -->
+    <string name="person6">Karel Gott</string>
+
+    <!-- Question 4 [CHAR LIMIT=20] -->
+    <string name="question4">Question 4</string>
+
+    <!-- Question 4 text [CHAR LIMIT=20] -->
+    <string name="question4_text">Polish constitution was </string>
+
+    <!-- Question 4 text [CHAR LIMIT=20] -->
+    <string name="enter_number">number</string>
+
+    <!-- Question 4 text2 [CHAR LIMIT=20] -->
+    <string name="question4_text2">in Europe</string>
+
+    <!-- Question 4 text3 [CHAR LIMIT=20] -->
+    <string name="question4_text3">and</string>
+
+    <!-- Question 4 text4 [CHAR LIMIT=20] -->
+    <string name="question4_text4">in the world.</string>
+
+    <!-- Question 5 [CHAR LIMIT=20] -->
+    <string name="question5">Question 5</string>
+
+    <!-- Question 5 text [CHAR LIMIT=20] -->
+    <string name="question5_text">Which is a Polish flag?</string>
+
+    <!-- Question 6 [CHAR LIMIT=20] -->
+    <string name="question6">Question 6</string>
+
+    <!-- Question 6 text [CHAR LIMIT=20] -->
+    <string name="question6_text">What is the number of Polish RAF squadron?</string>
+
+    <!-- Question 7 [CHAR LIMIT=20] -->
+    <string name="question7">Question 7</string>
+
+    <!-- Question 7 text [CHAR LIMIT=20] -->
+    <string name="question7_text">Which city was designed and built in accordance with the Italian theories of the “ideal town”?</string>
+
+    <!-- City 1 [CHAR LIMIT=20] -->
+    <string name="city1">Zamosc</string>
+
+    <!-- Submit [CHAR LIMIT=20] -->
+    <string name="submit">Submit</string>
+
+
+
+</resources>
